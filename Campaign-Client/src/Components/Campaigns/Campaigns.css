@@ -1,0 +1,10 @@
+
+.body{
+    background-color: #A4B3B6;
+    height: 100%;
+}
+.button{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 3px;;
+}

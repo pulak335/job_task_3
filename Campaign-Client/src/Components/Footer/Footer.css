@@ -1,0 +1,39 @@
+.footer{
+    background-color: #29465B;
+    padding-bottom: 3px;
+   
+}
+/* social icon start */
+.footer-img{
+    width:100px;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+.footer-img1{
+    width:70%;
+   
+    padding-top: 20px;
+}
+/* social icon end */
+.word{
+    color: white;
+}
+
+.footerlink{
+    text-decoration: none;
+    line-height: 50px;
+    justify-content: center;
+    
+    color: white;
+    padding-left: 16px;
+    
+}
+
+hr{
+    border-top:3px solid gray
+}
+
+.url2{
+   width: 50px;
+   margin-right: 50px;
+}
